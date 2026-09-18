@@ -82,7 +82,7 @@ export default function Home() {
               </motion.h1>
               <motion.p variants={fadeUp} initial="hidden" animate="show" custom={2}
                 className="mt-5 max-w-xl text-[15px] leading-relaxed text-white/65 sm:text-lg">
-                QueuePilot gives every bank, school and civic office an integrated customer service and timed-ticket system — The social handles are in one-place, customers arrive exactly when
+                LUMA gives every bank, school and civic office an integrated customer service and timed-ticket system — The social handles are in one-place, customers arrive exactly when
                 they should, documents verified from home. Plus branch collaboration and social care, built in.
               </motion.p>
               <motion.div variants={fadeUp} initial="hidden" animate="show" custom={3} className="mt-8 flex flex-wrap gap-3">
@@ -216,7 +216,7 @@ export default function Home() {
                 From 4-hour queue to 10-minute visit
               </h2>
               <p className="mt-4 text-[15px] leading-relaxed text-slate-500">
-                The old way: arrive at dawn, take a paper number, wait all morning. The QueuePilot way: book in 60 seconds,
+                The old way: arrive at dawn, take a paper number, wait all morning. The LUMA way: book in 60 seconds,
                 verify documents from your couch, arrive in your window and get called on time.
               </p>
               <div className="mt-6 overflow-hidden rounded-3xl shadow-lg">

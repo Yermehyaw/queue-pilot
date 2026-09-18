@@ -22,8 +22,8 @@ export function Logo({ dark }: { dark?: boolean }) {
         <span className="absolute -right-1 -top-1 h-3 w-3 rounded-full border-2 border-white bg-amber-400" />
       </div>
       <div className="leading-none">
-        <p className={cn('font-display text-lg font-extrabold tracking-tight', dark ? 'text-white' : 'text-ink-900')}>QueuePilot</p>
-        <p className={cn('text-[10px] font-semibold uppercase tracking-[0.18em]', dark ? 'text-teal-300' : 'text-teal-600')}>skip the line</p>
+        <p className={cn('font-display text-lg font-extrabold tracking-tight', dark ? 'text-white' : 'text-ink-900')}>LUMA</p>
+        <p className={cn('text-[8px] font-semibold uppercase tracking-[0.18em]', dark ? 'text-teal-300' : 'text-teal-600')}>Customers Satisfied</p>
       </div>
     </div>
   );

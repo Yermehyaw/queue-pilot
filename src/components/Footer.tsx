@@ -38,7 +38,7 @@ export default function Footer() {
           ))}
         </div>
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-white/10 pt-6 text-xs text-white/40 sm:flex-row">
-          <p className="inline-flex items-center gap-1.5"><Ticket className="h-3.5 w-3.5" /> QueuePilot — skip the line, keep the day.</p>
+          <p className="inline-flex items-center gap-1.5"><Ticket className="h-3.5 w-3.5" /> LUMA — All-in-one customer service experience.</p>
           <p>Demo experience · All data is illustrative</p>
         </div>
       </div>
