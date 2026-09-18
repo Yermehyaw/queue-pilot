@@ -76,13 +76,13 @@ export default function Home() {
               </motion.div>
               <motion.h1 variants={fadeUp} initial="hidden" animate="show" custom={1}
                 className="mt-6 font-display text-4xl font-extrabold leading-[1.05] tracking-tight text-white sm:text-6xl">
-                Never queue again.<br />
-                <span className="bg-gradient-to-r from-teal-300 via-emerald-300 to-amber-200 bg-clip-text text-transparent">Book your turn.</span><br />
+                Integrated customer service.<br />
+                <span className="bg-gradient-to-r from-teal-300 via-emerald-300 to-amber-200 bg-clip-text text-transparent">Never queue again</span><br />
                 Keep your day.
               </motion.h1>
               <motion.p variants={fadeUp} initial="hidden" animate="show" custom={2}
                 className="mt-5 max-w-xl text-[15px] leading-relaxed text-white/65 sm:text-lg">
-                QueuePilot gives every bank, school and civic office a timed-ticket system — customers arrive exactly when
+                QueuePilot gives every bank, school and civic office an integrated customer service and timed-ticket system — The social handles are in one-place, customers arrive exactly when
                 they should, documents verified from home. Plus branch collaboration and social care, built in.
               </motion.p>
               <motion.div variants={fadeUp} initial="hidden" animate="show" custom={3} className="mt-8 flex flex-wrap gap-3">
